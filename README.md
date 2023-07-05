@@ -4,7 +4,7 @@ Here we create a new account, airdrop SOL into it, connect phantom wallet and tr
 
 ## Companion Video
 
-[Loom Companion Video](https://www.loom.com/share/5c53b77c4af740c192868c7c6a9eebab?sid=1d09010b-2ae3-42dc-87d1-97ff080b8579)
+[Loom Companion Video](https://www.loom.com/share/2ffb9461cc154b92a53afe5b0ea808fe?sid=151acc7f-11e3-4416-8235-3839f69ce6f2)
 
 ## Problem Statement
 
