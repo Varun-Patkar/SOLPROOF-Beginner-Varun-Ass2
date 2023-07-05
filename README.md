@@ -41,7 +41,7 @@ git clone https://github.com/Varun-Patkar/SOLPROOF-Beginner-Varun-Ass2.git
 npm install
 ```
 
-- Be Sure to switch your phantom wallet to `Testnet mode` and select solana testnet as `Devnet`
+- Be sure to switch your Phantom Wallet to `Testnet Mode` and select Solana Testnet as `Solana Devnet`
 
 - Finally, Start the next.js development live server
 
